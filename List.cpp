@@ -40,16 +40,3 @@ public:
 		return *current_node->value;
 	}
 };
-
-
-int main()
-{
-	List list;
-/*
-	printf("list");
-	list.push_front(49);
-	printf("push");
-	printf("%d", *list.head->value);
-*/
-	return 0;
-}
